@@ -1,0 +1,402 @@
+[
+  {
+    "code": "USR-001",
+    "name": "Lucas",
+    "last_name": "Martinez",
+    "age": 28,
+    "email": "lucas.martinez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-002",
+    "name": "Sofia",
+    "last_name": "Gonzalez",
+    "age": 31,
+    "email": "sofia.gonzalez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-003",
+    "name": "Mateo",
+    "last_name": "Rodriguez",
+    "age": 24,
+    "email": "mateo.rodriguez@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-004",
+    "name": "Valentina",
+    "last_name": "Lopez",
+    "age": 35,
+    "email": "valentina.lopez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-005",
+    "name": "Benjamin",
+    "last_name": "Fernandez",
+    "age": 29,
+    "email": "benjamin.fernandez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-006",
+    "name": "Isidora",
+    "last_name": "Perez",
+    "age": 27,
+    "email": "isidora.perez@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-007",
+    "name": "Tomas",
+    "last_name": "Sanchez",
+    "age": 42,
+    "email": "tomas.sanchez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-008",
+    "name": "Martina",
+    "last_name": "Ramirez",
+    "age": 22,
+    "email": "martina.ramirez@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-009",
+    "name": "Vicente",
+    "last_name": "Torres",
+    "age": 33,
+    "email": "vicente.torres@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-010",
+    "name": "Antonia",
+    "last_name": "Flores",
+    "age": 26,
+    "email": "antonia.flores@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-011",
+    "name": "Joaquin",
+    "last_name": "Rivera",
+    "age": 38,
+    "email": "joaquin.rivera@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-012",
+    "name": "Catalina",
+    "last_name": "Gomez",
+    "age": 30,
+    "email": "catalina.gomez@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-013",
+    "name": "Agustin",
+    "last_name": "Diaz",
+    "age": 25,
+    "email": "agustin.diaz@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-014",
+    "name": "Fernanda",
+    "last_name": "Reyes",
+    "age": 34,
+    "email": "fernanda.reyes@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-015",
+    "name": "Maximiliano",
+    "last_name": "Morales",
+    "age": 41,
+    "email": "maximiliano.morales@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-016",
+    "name": "Camila",
+    "last_name": "Ortiz",
+    "age": 23,
+    "email": "camila.ortiz@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-017",
+    "name": "Sebastian",
+    "last_name": "Castro",
+    "age": 36,
+    "email": "sebastian.castro@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-018",
+    "name": "Francisca",
+    "last_name": "Vargas",
+    "age": 28,
+    "email": "francisca.vargas@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-019",
+    "name": "Diego",
+    "last_name": "Silva",
+    "age": 32,
+    "email": "diego.silva@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-020",
+    "name": "Constanza",
+    "last_name": "Rojas",
+    "age": 29,
+    "email": "constanza.rojas@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-021",
+    "name": "Nicolas",
+    "last_name": "Herrera",
+    "age": 45,
+    "email": "nicolas.herrera@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-022",
+    "name": "Daniela",
+    "last_name": "Medina",
+    "age": 37,
+    "email": "daniela.medina@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-023",
+    "name": "Felipe",
+    "last_name": "Contreras",
+    "age": 21,
+    "email": "felipe.contreras@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-024",
+    "name": "Javiera",
+    "last_name": "Sepulveda",
+    "age": 26,
+    "email": "javiera.sepulveda@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-025",
+    "name": "Cristobal",
+    "last_name": "Fuentes",
+    "age": 39,
+    "email": "cristobal.fuentes@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-026",
+    "name": "Paula",
+    "last_name": "Navarro",
+    "age": 33,
+    "email": "paula.navarro@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-027",
+    "name": "Ignacio",
+    "last_name": "Molina",
+    "age": 27,
+    "email": "ignacio.molina@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-028",
+    "name": "Macarena",
+    "last_name": "Vega",
+    "age": 44,
+    "email": "macarena.vega@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-029",
+    "name": "Martin",
+    "last_name": "Campos",
+    "age": 20,
+    "email": "martin.campos@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-030",
+    "name": "Josefa",
+    "last_name": "Salazar",
+    "age": 31,
+    "email": "josefa.salazar@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-031",
+    "name": "Gabriel",
+    "last_name": "Valdes",
+    "age": 35,
+    "email": "gabriel.valdes@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-032",
+    "name": "Trinidad",
+    "last_name": "Carrasco",
+    "age": 24,
+    "email": "trinidad.carrasco@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-033",
+    "name": "Emilio",
+    "last_name": "Miranda",
+    "age": 40,
+    "email": "emilio.miranda@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-034",
+    "name": "Amanda",
+    "last_name": "Araya",
+    "age": 28,
+    "email": "amanda.araya@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-035",
+    "name": "Renato",
+    "last_name": "Figueroa",
+    "age": 52,
+    "email": "renato.figueroa@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-036",
+    "name": "Florencia",
+    "last_name": "Espinoza",
+    "age": 19,
+    "email": "florencia.espinoza@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-037",
+    "name": "Alonso",
+    "last_name": "Paredes",
+    "age": 30,
+    "email": "alonso.paredes@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-038",
+    "name": "Pia",
+    "last_name": "Caceres",
+    "age": 43,
+    "email": "pia.caceres@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-039",
+    "name": "Bruno",
+    "last_name": "Tapia",
+    "age": 26,
+    "email": "bruno.tapia@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-040",
+    "name": "Maite",
+    "last_name": "Bustamante",
+    "age": 32,
+    "email": "maite.bustamante@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-041",
+    "name": "Simon",
+    "last_name": "Saavedra",
+    "age": 48,
+    "email": "simon.saavedra@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-042",
+    "name": "Emilia",
+    "last_name": "Parra",
+    "age": 25,
+    "email": "emilia.parra@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-043",
+    "name": "Leon",
+    "last_name": "Escobar",
+    "age": 34,
+    "email": "leon.escobar@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-044",
+    "name": "Renata",
+    "last_name": "Godoy",
+    "age": 29,
+    "email": "renata.godoy@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-045",
+    "name": "Gaspar",
+    "last_name": "Mendoza",
+    "age": 37,
+    "email": "gaspar.mendoza@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-046",
+    "name": "Dominga",
+    "last_name": "Bravo",
+    "age": 23,
+    "email": "dominga.bravo@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-047",
+    "name": "Salvador",
+    "last_name": "Acuna",
+    "age": 46,
+    "email": "salvador.acuna@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-048",
+    "name": "Elena",
+    "last_name": "Leiva",
+    "age": 27,
+    "email": "elena.leiva@example.com",
+    "is_active": false
+  },
+  {
+    "code": "USR-049",
+    "name": "Rafael",
+    "last_name": "Mardones",
+    "age": 31,
+    "email": "rafael.mardones@example.com",
+    "is_active": true
+  },
+  {
+    "code": "USR-050",
+    "name": "Laura",
+    "last_name": "Correa",
+    "age": 36,
+    "email": "laura.correa@example.com",
+    "is_active": true
+  }
+]
